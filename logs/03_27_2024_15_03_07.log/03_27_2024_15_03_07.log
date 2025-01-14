@@ -1,0 +1,195 @@
+[2024-05-27 15:03:08,175] 97 werkzeug - WARNING - * Debugger is active!
+[2024-05-27 15:03:08,187] 97 werkzeug - INFO - * Debugger PIN: 112-553-390
+[2024-05-27 15:03:18,120] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:03:18,371] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:03:18] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:03:18,385] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:03:18] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+[2024-05-27 15:03:52,342] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:03:52,394] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:03:52] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:03:52,409] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:03:52] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:04:52,840] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:04:52,895] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:04:52] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:04:52,905] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:04:52] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:04:56,678] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:04:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:05:57,708] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:05:57,755] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:05:57] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:05:57,767] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:05:57] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:06:17,355] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:06:17,383] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:06:17] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:06:17,396] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:06:17] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:06:54,449] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:06:54,475] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:06:54] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:06:54,489] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:06:54] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:07:12,105] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:07:12,130] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:07:12] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:07:12,177] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:07:12] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:09:25,908] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:09:26,005] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:09:26] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:09:26,020] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:09:26] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:10:13,233] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:10:13,270] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:10:13] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:10:13,284] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:10:13] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:10:30,025] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:10:30,055] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:10:30] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:10:30,070] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:10:30] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:11:05,299] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:11:05,328] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:11:05] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:11:05,342] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:11:05] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:13:45,505] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:13:45,550] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:13:45] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:13:45,565] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:13:45] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:14:17,599] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:14:17,647] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:14:17] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:14:17,667] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:14:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:14:22,501] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:14:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:15:04,500] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:15:04,547] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:15:04] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:15:04,561] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:15:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:15:27,495] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:15:27,537] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:15:27] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:15:27,546] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:15:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:16:57,037] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:16:57,085] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:16:57] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:16:57,105] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:16:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:17:41,467] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:17:41,518] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:17:41] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:17:41,532] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:17:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:18:15,731] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:18:15,771] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:18:15] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:18:15,788] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:18:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:18:43,446] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:18:43,475] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:18:43] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:18:43,486] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:18:43] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:19:06,548] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:19:06,575] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:19:06] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:19:06,593] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:19:06] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:19:14,228] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:19:14,256] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:19:14] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:19:14,273] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:19:14] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:19:24,505] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:19:24,530] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:19:24] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:19:24,551] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:19:24] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:19:31,619] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:19:31,645] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:19:31] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:19:31,660] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:19:31] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:19:40,683] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:19:40,709] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:19:40] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:19:40,723] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:19:40] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:20:04,575] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:20:04,605] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:20:04] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:20:04,617] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:20:04] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:20:36,385] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:20:36,408] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:20:36] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:20:36,425] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:20:36] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:20:53,245] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:20:53,269] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:20:53] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:20:53,285] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:20:53] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:21:50,047] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:21:50,078] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:21:50] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:21:50,095] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:21:50] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:22:01,484] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:22:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:22:33,938] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:22:33,971] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:22:33] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:22:33,990] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:22:33] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:22:50,522] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:22:50,553] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:22:50] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:22:50,572] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:22:50] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:22:58,668] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:22:58,691] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:22:58] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:22:58,708] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:22:58] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:23:28,057] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:23:28,081] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:23:28] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:23:28,096] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:23:28] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:23:48,854] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:23:48,877] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:23:48] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:23:48,893] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:23:48] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:26:41,228] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:26:41,257] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:26:41] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:26:41,272] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:26:41] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:26:53,827] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:26:53,855] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:26:53] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:26:53,868] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:26:53] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:27:00,828] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:27:00,850] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:27:00] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:27:00,867] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:27:00] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:27:14,705] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:27:14,733] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:27:14] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:27:14,749] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:27:14] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:27:43,686] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:27:43,715] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:27:43] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:27:43,730] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:27:43] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:28:40,140] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:28:40,196] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:28:40] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:28:40,213] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:28:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:28:56,026] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:28:56,067] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:28:56] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:28:56,075] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:28:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:29:02,907] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:29:02,930] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:29:02] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:29:02,947] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:29:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:30:02,104] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:30:02,151] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:30:02] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:30:02,165] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:30:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:32:26,615] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:32:26,677] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:32:26] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:32:26,688] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:32:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:32:43,367] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:32:43,393] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:32:43] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:32:43,406] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:32:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:33:21,987] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:33:22,035] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:33:22] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:33:22,048] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:33:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:33:36,347] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:33:36,387] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:33:36] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:33:36,397] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:33:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:33:41,607] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:33:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:34:23,258] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:34:23,305] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:34:23] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:34:23,320] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:34:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:34:30,114] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:34:30,147] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:34:30] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:34:30,169] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:34:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:34:58,500] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:34:58,544] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:34:58] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:34:58,557] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:34:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:35:03,474] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:35:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:37:03,922] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:37:03,968] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:37:03] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:37:03,983] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:37:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:38:42,717] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:38:42,748] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:38:42] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:38:42,769] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:38:42] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:39:34,654] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:39:34,684] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:39:34] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:39:34,700] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:39:34] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:39:56,902] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:39:56,936] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:39:56] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:39:56,950] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:39:56] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:40:15,297] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:40:15,326] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:40:15] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:40:15,337] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:40:15] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:40:37,018] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:40:37,045] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:40:37] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:40:37,058] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:40:37] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:41:23,248] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:41:23,275] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:41:23] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:41:23,289] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:41:23] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:41:49,957] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:41:50,008] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:41:50] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:41:50,024] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:41:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:42:50,808] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:42:50,835] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:42:50] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:42:50,849] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:42:50] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:42:57,297] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:42:57,322] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:42:57] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:42:57,338] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:42:57] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:43:06,165] 66 root - INFO -Dataframe Gathered
+[2024-05-27 15:43:06,187] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:43:06] "POST /predict HTTP/1.1" 200 -
+[2024-05-27 15:43:06,204] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:43:06] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-05-27 15:43:10,789] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:43:10] "GET / HTTP/1.1" 200 -
+[2024-05-27 15:43:15,661] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:43:15] "GET /predict HTTP/1.1" 200 -
+[2024-05-27 15:43:15,682] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:43:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-05-27 15:44:07,996] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:44:07] "[35m[1mGET /predict HTTP/1.1[0m" 500 -
+[2024-05-27 15:44:08,016] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:44:08] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2024-05-27 15:44:08,085] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:44:08] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2024-05-27 15:44:08,134] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:44:08] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2024-05-27 15:44:08,165] 97 werkzeug - INFO -127.0.0.1 - - [27/May/2024 15:44:08] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

@@ -1,0 +1,21 @@
+body{
+ background-color: aquamarine;
+}
+.form-group{
+ margin: 10vh;
+ text-overflow: ellipsis;
+ font-size: 20px;
+
+}
+.form-group label {
+ margin-right: 2vh;
+}
+.result{
+ display: flex;
+ margin-left: 370px;
+ margin-top: 10px;
+ font-size: x-large;
+}
+.submit{
+ width: 10px;
+}
